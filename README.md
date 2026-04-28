@@ -33,3 +33,5 @@ Follow these steps to set up the project locally:
    ```bash
    npm test
    ```
+
+Verified by AI
